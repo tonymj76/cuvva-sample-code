@@ -1,6 +1,5 @@
 # Merchant Create Service
 
-![Go/Golang CI](https://github.com/hngi/Team-Incredible-BE/workflows/Node.js%20CI/badge.svg?branch=develop)
 
 - [Overview :notebook_with_decorative_cover:](#overview-notebook_with_decorative_cover)
 - [Installation and running server (Development) :gear:](#installation-and-running-server-gear)
