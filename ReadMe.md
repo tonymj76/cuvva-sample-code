@@ -1,4 +1,4 @@
-# Merchant Create Service
+# Merchant Service
 
 
 - [Overview :notebook_with_decorative_cover:](#overview-notebook_with_decorative_cover)
