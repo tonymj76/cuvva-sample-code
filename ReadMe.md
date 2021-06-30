@@ -3,13 +3,13 @@
 - [Overview :notebook_with_decorative_cover:](#overview-notebook_with_decorative_cover)
 - [Installation and running server (Development) :gear:](#installation-and-running-server-gear)
 
-## Overview :notebook_with_decorative_cover
+## Overview :notebook_with_decorative_cover:
 
  I create a Simple Merchant service using Cuvva CRPC library to explore the awesome library created by the Team in Cuvva.
  I like the simplicity of the library and how easy it is to get started.
  I would appreciate any feedback on the code base, Thanks.
 
-## Installation and running server :gear
+## Installation and running server :gear:
 
 - Clone the repo to your local machine using your _terminal_ or _command prompt_, and afterwards, navigate into the root folder  
 
