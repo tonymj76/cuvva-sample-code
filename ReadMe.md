@@ -1,6 +1,5 @@
 # Merchant Service
 
-
 - [Overview :notebook_with_decorative_cover:](#overview-notebook_with_decorative_cover)
 - [Installation and running server (Development) :gear:](#installation-and-running-server-gear)
 
@@ -25,6 +24,13 @@ make createdb
 ```
 
 - Run the code
+- modd enables hot reload
+
+```shell script
+modd
+```
+
+OR
 
 ```shell script
 go run main.go
