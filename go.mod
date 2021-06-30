@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/Masterminds/squirrel v1.5.0
+	github.com/cortesi/modd v0.0.0-20210323234521-b35eddab86cc // indirect
 	github.com/cuvva/cuvva-public-go v0.0.0-20210610111157-c03c40afc919
 	github.com/go-chi/chi v1.5.4
 	github.com/golang-migrate/migrate/v4 v4.14.1
